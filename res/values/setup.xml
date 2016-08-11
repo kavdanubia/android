@@ -70,6 +70,8 @@
     <!--Destination mail for sending log files -->
     <string name="mail_logger"></string>
 
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
 </resources>
 
 
